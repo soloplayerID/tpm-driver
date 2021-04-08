@@ -14,7 +14,6 @@ class UploadDriverPresenter implements UploadDriverPresenterAbstract {
 
   @override
   set view(UploadDriverState view) {
-    // TODO: implement view
     this._uploadDriverState = view;
     this._uploadDriverState.refreshData(this._uploadDriverModel);
   }

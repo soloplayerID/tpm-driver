@@ -3,7 +3,6 @@ import 'package:TPMDriver/src/resources/session.dart';
 import 'package:TPMDriver/src/response/driverResponse.dart';
 import 'package:http/http.dart' show Client;
 // ignore: unused_import
-// ignore: unused_import
 import 'package:TPMDriver/helper/paths.dart';
 import 'dart:convert';
 

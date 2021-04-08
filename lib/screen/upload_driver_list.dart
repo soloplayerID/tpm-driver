@@ -39,7 +39,6 @@ class _DriverListState extends State<DriverList>
 
   @override
   void dispose() {
-    // TODO: implement dispose
     super.dispose();
     _controller.dispose();
   }

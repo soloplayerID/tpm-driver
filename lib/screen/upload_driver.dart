@@ -10,7 +10,6 @@ import 'package:TPMDriver/src/presenter/upload_driver.dart';
 import 'package:http_parser/http_parser.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:image_picker/image_picker.dart';
 import 'package:TPMDriver/helper/paths.dart';
 import 'package:intl/intl.dart';
 import 'package:line_icons/line_icons.dart';

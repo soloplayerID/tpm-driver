@@ -1,11 +1,8 @@
-import 'package:TPMDriver/screen/fragment/average_nilai/raised_gradient_button.dart';
 import 'package:TPMDriver/screen/fragment/loading.dart';
 import 'package:TPMDriver/src/model/rasioGrades.dart';
 import 'package:TPMDriver/src/presenter/rasioGrades.dart';
 import 'package:TPMDriver/src/state/RasioGrades.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:ionicons/ionicons.dart';
 
 class AverageNilai extends StatefulWidget {
   final String title;

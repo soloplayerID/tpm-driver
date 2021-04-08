@@ -1,13 +1,7 @@
-import 'dart:convert';
-
-import 'package:TPMDriver/src/model/bayar.dart';
-import 'package:TPMDriver/src/model/paket.dart';
 import 'package:TPMDriver/src/model/rasioGrades.dart';
 
 import 'package:TPMDriver/src/resources/historyTryoutApi.dart';
-import 'package:TPMDriver/src/resources/bayarApi.dart';
 import 'package:TPMDriver/src/state/RasioGrades.dart';
-import 'package:TPMDriver/src/state/total_nilai.dart';
 
 abstract class RasioGradesPresenterAbstract {
   set view(RasioGradeState view) {}
